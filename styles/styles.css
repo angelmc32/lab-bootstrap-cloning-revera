@@ -1,0 +1,25 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+nav {
+  height: 10vh;
+}
+
+header {
+  height: 60vh;
+}
+
+.red-box {
+  background-color: #F4473A;
+  margin: 0;
+  align-self: center;
+  align-content: center;
+  display: flex;
+  height: 100px;
+}
+
+.functionality {
+  height: 30vh;
+}
